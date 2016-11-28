@@ -1,0 +1,15 @@
+#Sun Nov 16 19:49:35 GMT 2014
+bluej.teamsettings.groupname=group_d
+bluej.teamsettings.subversion.server=sems-cluster.city.ac.uk
+bluej.teamsettings.user=acjx557
+bluej.teamsettings.ignore8=\\.DS_Store
+bluej.teamsettings.vcs=subversion
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.subversion.repositoryPrefix=/vol/data2/projects/inm350/
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.subversion.protocol=svn+ssh

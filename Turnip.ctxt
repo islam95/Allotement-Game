@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=row\ col\ row2\ col2
+comment0.target=boolean\ isAdjacent(int,\ int,\ int,\ int)
+comment1.params=row\ col
+comment1.target=void\ clearNonAdjacentO(int,\ int)
+comment2.params=
+comment2.target=void\ replaceX()
+comment3.params=
+comment3.target=void\ plantTurnip()
+numComments=4
